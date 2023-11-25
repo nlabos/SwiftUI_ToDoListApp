@@ -26,7 +26,16 @@ ToDoリストアプリを作成し、SwiftUIを用いたUI作成に慣れUserDef
  - Listを使ってみる
     -  Sectionを使ってみる
  - プログラムを使ってListに要素を追加する
-3. 
+ 　　-　削除する  
+ - NavigationBarItemを使って、Navigation Barに文字を表示
+3. Modalを作成し、ボタンを使ってViewを呼び出す
+ - Modalとは？
+ - NavigationBarButtonの実装について
+4. UserDefaultについて
+ - データ構造について(タイトル・ToDoの状況)
+ - UserDefaultとは？
+5. UIをカスタマイズする
+ - チェックマークをつける
 
 ## 利用するパッケージ
 
